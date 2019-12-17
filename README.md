@@ -2,6 +2,8 @@
 
 **INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SANTA CATARINA – CAMPUS FLORIANÓPOLIS**
 
+**Curso:** *Engenharia ELetrônica*
+
 **Alunos:** *Caroline Farias* e *Thiago de Lira*
 
 **Disciplina:** *Microprocessador* 

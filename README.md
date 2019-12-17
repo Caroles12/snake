@@ -4,7 +4,7 @@
 
 **Curso:** *Engenharia ELetrônica*
 
-**Alunos:** *Caroline Farias* e *Thiago de Lira*
+**Alunos:** *Carolina Farias* e *Thiago de Lira*
 
 **Disciplina:** *Microprocessador* 
 

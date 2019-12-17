@@ -6,7 +6,7 @@
 
 **Alunos:** *Carolina Farias* e *Thiago de Lira*
 
-**Disciplina:** *Microprocessador* 
+**Disciplina:** *Microprocessadores* 
 
 **Professor:** *Hugo Marcondes*
 

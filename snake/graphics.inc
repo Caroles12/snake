@@ -24,7 +24,6 @@
 .data
 .data 
 
-
 animated_sprite(snake, 26,21 ,14, 0, 0)
 mov_buf: .word 0,0,0 # valid, X, Y
   

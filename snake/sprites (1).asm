@@ -34,8 +34,8 @@ main2:
 	lw $a0, 4($t0)   #mandando o x do buffer
 	lw $a1, 8($t0)   #mandando o y 
 	
-	lw $t1, 4($s0)   #pos x pacman
-	lw $t2, 8($s0)   #pos y pacman
+	lw $t1, 4($s0)   #pos x snake
+	lw $t2, 8($s0)   #pos y snake
 	
 	#Encontrando a minha posição na matrix 35x35
 	div $t3, $t1, 7 
@@ -180,7 +180,7 @@ set_pixel:
    	jr  $ra
    	
  #------------------------------------------------------
- #Apply_moviment (*pacman) 
+ #Apply_moviment (*snake) 
  .globl apply_movement  #Descobre em qual posição está o snake e qual o sprite abaixo dele, bem como também os pixels que o snake já se moveu e redesenha eles
  apply_movement:
  	addi $sp, $sp, -40

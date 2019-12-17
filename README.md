@@ -2,11 +2,11 @@
 
 **INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SANTA CATARINA – CAMPUS FLORIANÓPOLIS**
 
-**Alunos:** *Caroline Farias e *Thiago de Lira
+**Alunos:** *Caroline Farias* e *Thiago de Lira*
 
-**Disciplina:** *Microprocessador 
+**Disciplina:** *Microprocessador* 
 
-**Professor:** *Hugo Marcondes
+**Professor:** *Hugo Marcondes*
 
 **Problemas evidenciados:**
 

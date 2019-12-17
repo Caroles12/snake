@@ -1,4 +1,4 @@
-# Jogo SNAKE projetado em Assemby através do software MARS.
+# Jogo SNAKE projetado em Assemby através do software MARS com arquitetura MIPS.
 
 **INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SANTA CATARINA – CAMPUS FLORIANÓPOLIS**
 
